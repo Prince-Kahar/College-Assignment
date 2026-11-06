@@ -1,0 +1,8 @@
+1. Sem 2 Syllabus
+2. Structure and Union
+3. User Defined Function
+4. Pointer
+5. File Manager
+6. Pre - Processor
+7. File Manager program
+8. Problem no 7
